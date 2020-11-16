@@ -2,7 +2,7 @@ import './App.css';
 import FavouriteFilm from './components/FavouriteFilm'
 import React from 'react';
 
-function App() {
+function App () {
   return (
     <div className="App">
       < FavouriteFilm />
